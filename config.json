@@ -1,0 +1,10 @@
+{
+  "window-centered": false,
+  "window-height": 600,
+  "window-width": 1000,
+  "window-resizable": false,
+  "instructions": ["This typing speed test is to roughly measure the keyboard typing speed and accuracy of the candidate.",
+                   "Test duration is two minutes. You would be shown a paragraph in top box and have to type the same paragraph in the second box.",
+                   "Your score will be evaluated on the basis of time taken and accuracy.",
+                   "The test will begin as soon as you click on the 'START TEST'."]
+}
