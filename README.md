@@ -18,3 +18,5 @@ How to run the application:
 Future Improvements and Ideas:
 1. Multiple difficulty levels to choose from
 2. Session based feature that allows users to take multiple tests in a session and create a progress graph
+
+/home/ni.garg/Pictures/12-9-error-2.png
